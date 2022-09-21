@@ -1,0 +1,29 @@
+{
+    "localization_testing": "english",
+     "VALIDATEUSER" : {
+       "ENTER_NIC" : "Enter NIC Number",
+       "ENTER_NIC_NOTE" : "Please use keyboard details to enter the details"
+     },
+     "VISITDETAIL" : {
+      "ENTER_YOUR_NAME" : "Enter Your Name",
+      "CONTRACTOR" : {
+        "CONTRACTOR_TYPE" : "Contractor Type",
+        "CONTRACTOR_TYPE_NOTE" : "If you need more info, please check out",
+        "VISITOR" : "Visitor",
+        "VISITOR_NOTE" : "If you need more info, please check out",
+        "WORKER" : "Worker",
+        "WORKER_NOTE" : "If you need more info, please check out",
+        "CHOOSE_CONTRACTOR" : "Choose Contractor",
+        "CHOOSE_CONTRACTOR_NOTE" : "If you need more info, please check out"
+      }
+    },
+     "COMMON" : {
+      "NEXT" : "NEXT",
+      "PREVIOUS" : "PREVIOUS",
+      "EXIT" : "EXIT",
+      "TAKE_EXAM" : "Take Exam",
+      "COMPLETED" : "COMPLETE",
+      "PRINT" : "PRINT"
+    } 
+}
+  

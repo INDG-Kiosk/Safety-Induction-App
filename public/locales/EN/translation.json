@@ -1,0 +1,68 @@
+{
+    "localization_testing": "english",
+     "VALIDATEUSER" : {
+       "ENTER_NIC" : "Enter NIC Number",
+       "ENTER_NIC_NOTE" : "Please use keyboard to enter the details"
+     },
+     "VISITDETAIL" : {
+      "ENTER_YOUR_NAME" : "Enter Your Name",
+      "CONTRACTOR" : {
+        "CONTRACTOR_TYPE" : "Contractor Type",
+        "CONTRACTOR_TYPE_NOTE" : "If you need more info, please check out",
+        "VISITOR" : "Visitor",
+        "VISITOR_NOTE" : "If you need more info, please check out",
+        "WORKER" : "Worker",
+        "WORKER_NOTE" : "If you need more info, please check out",
+        "CHOOSE_CONTRACTOR" : "Choose Contractor",
+        "CHOOSE_CONTRACTOR_NOTE" : "If you need more info, please check out"
+      }
+    },
+    "NOTIFICATION":{
+      "REPRINT" : "REPRINT",
+      "PRINTING" : "PRINTING",
+      "PRINTING_NOTE" : "Your pass is printing..",
+      "RETAKE_EXAM" : "RETAKE EXAM",
+      "THANK_YOU":"Thank You!",
+      "VALID" : "Your safety pass is valid unti​l",
+      "COLLECT" : "Please contact safety team and obtain your permanent pass..",
+      "CONGRATULATION" : "Congratulations! You passed",
+      "CONGRATULATION_NOTE" : "Your pass is being printed...",
+      "FAIL" : "Your attempt was not successful.",
+      "FAIL_NOTE":"Please Try Again"
+    },
+    "TAKEIMAGE":{
+      "TITLE": "Take a Photo",
+      "CAPTURE" : "CAPTURE",
+      "RETAKE_IMAGE" : "RETAKE IMAGE"
+    },
+    "WATCHVIDEO" : {
+      "TITLE": "Watch Video",
+      "TAKE_EXAM" : "Take Exam",
+      "NOTE" : "Watch video carefully & ansewer the questions"
+    },
+    "QUESTION" :{
+      "SELECT_THE_ANSWER" : "Select the correct answer"
+    },
+     "COMMON" : {
+      "NEXT" : "NEXT",
+      "PREVIOUS" : "PREVIOUS",
+      "EXIT" : "EXIT",
+      "COMPLETED" : "COMPLETE",
+      "PRINT" : "PRINT",
+      "YES":"YES",
+      "NO":"NO"
+    },
+    "ALERT":{
+"SESSION_EXPIRE":"Do you need more time",
+"SESSION_EXPIRE_DETAIL":"Your session has been expired"
+    },
+    "VALIDATION":{
+      "NIC_REQUIRED" : "NIC Number Required!",
+      "API_SERVICE_DOWN" : "Oops! Couldn't connected to the backend, please contact IT support",
+      "NAME_REQUIRED" : "Name is Requried!",
+      "VISITOR_TYPE_REQUIRED":"Visitor Type Required!",
+      "SELECT_ANSWER" : "Select the correct answer",
+      "INVALID_NIC" : "Invalid NIC Number"
+    }
+  }
+  

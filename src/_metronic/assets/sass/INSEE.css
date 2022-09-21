@@ -1,0 +1,91 @@
+.container {
+  position: relative;
+  font-size: 25px;
+  width: 50%;
+}
+
+input[type='radio'] {
+  background-color: #fff;
+  margin: 0;
+  font: inherit;
+  color: currentColor;
+  width: 1.15em;
+  height: 1.15em;
+  border: 0.15em solid currentColor;
+  border-radius: 50%;
+  font-size: 12px;
+}
+
+input {
+  height: 60px;
+  font-size: 20px !important;
+}
+
+select {
+  height: 60px;
+  font-size: 20px !important;
+}
+.insee-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn-insee-xxl {
+  height: 70px;
+  font-size: 25px !important;
+}
+
+.btn-insee-xl {
+  height: 70px;
+  font-size: 25px !important;
+  text-align: right;
+  right: 0;
+  bottom: 0;
+}
+.txt-insee-xl {
+  height: 70px;
+  font-size: 30px !important;
+}
+
+.div-insee-mid {
+  top: 50%;
+  position: fixed;
+}
+
+.img-insee-x1 {
+  width: 100% !important ;
+}
+
+.insee-Header {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  height: '100px';
+  width: 100%;
+  background-color: white;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.insee-bottom-btn {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-right: 60px;
+}
+
+.insee-home {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.insee-lang-loading {
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+}

@@ -1,0 +1,22 @@
+export enum FormStatus {
+    NONE,
+    WELCOME,
+    VALIDATION,
+    BASIC,
+    IMAGE,
+    VIDEO,
+    QUESTION,
+    RESULT,
+    NOTIFICATION,
+    NEXT_QUESTION,
+    PRE_QUESTION,
+    COMPLETE,
+    NOTIFICATION2,
+    REPRINT,
+    VALID,
+    TIMEOUT,
+    REPRINTING,
+    PRINTING,
+}
+
+

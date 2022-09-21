@@ -1,0 +1,67 @@
+{
+  "localization_testing": "tamil",
+   "VALIDATEUSER" : {
+     "ENTER_NIC" : "NIC எண்ணை உள்ளிடவும்",
+     "ENTER_NIC_NOTE" : "Please use keyboard details to enter the details"
+   },
+   "VISITDETAIL" : {
+    "ENTER_YOUR_NAME" : "உங்கள் பெயரை உள்ளிடவும்",
+    "CONTRACTOR" : {
+      "CONTRACTOR_TYPE" : "ஒப்பந்ததாரர் வகை",
+      "CONTRACTOR_TYPE_NOTE" : "If you need more info, please check out",
+      "VISITOR" : "பார்வையாளர்",
+      "VISITOR_NOTE" : "If you need more info, please check out",
+      "WORKER" : "தொழிலாளி",
+      "WORKER_NOTE" : "If you need more info, please check out",
+      "CHOOSE_CONTRACTOR" : "ஒப்பந்தக்காரரைத் தேர்ந்தெடுக்கவும்",
+      "CHOOSE_CONTRACTOR_NOTE" : "If you need more info, please check out"
+    }
+  },
+  "NOTIFICATION":{
+    "REPRINT" : "மறுபதிப்பு",
+    "PRINTING" : "அச்சிடுதல்",
+    "PRINTING_NOTE" : "உங்கள் பாஸ் அச்சிடப்படுகிறது..",
+    "RETAKE_EXAM" : "மறுதேர்வு தேர்வு",
+    "THANK_YOU":"நன்றி!",
+    "VALID" : "உங்கள் பாதுகாப்பு பாஸ்  வரை செல்லுபடியாகும்",
+    "COLLECT" : "பாதுகாப்புக் குழுவைத் தொடர்புகொண்டு உங்கள் நிரந்தர அனுமதிச் சீட்டைப் பெறவும்.",
+    "CONGRATULATION" : "வாழ்த்துகள்! நீங்கள் தேர்ச்சி பெற்றீர்கள்",
+    "CONGRATULATION_NOTE" : "உங்கள் பாஸ் அச்சிடப்படுகிறது...",
+    "FAIL" : "உங்கள் முயற்சி வெற்றியடையவில்லை.",
+    "FAIL_NOTE":"தயவுசெய்து மீண்டும் முயற்சி செய்க"
+  },
+  "TAKEIMAGE":{
+    "TITLE": "புகைப்படம் எடு",
+    "CAPTURE" : "பிடிப்பு",
+    "RETAKE_IMAGE" : "படத்தை மீண்டும் எடுக்கவும்"
+  },
+  "WATCHVIDEO" : {
+    "TITLE": "வீடியோவை பார்க்கவும்",
+    "TAKE_EXAM" : "பரீட்சை எடு",
+    "NOTE" : "வீடியோவை கவனமாக பார்த்து கேள்விகளுக்கு பதிலளிக்கவும்"
+  },
+  "QUESTION" :{
+    "SELECT_THE_ANSWER" : "பதிலைத் தேர்ந்தெடுக்கவும்"
+  },
+   "COMMON" : {
+    "NEXT" : "அடுத்தது",
+    "PREVIOUS" : "முந்தைய",
+    "EXIT" : "வெளியேறு",
+    "COMPLETED" : "முழுமை",
+    "PRINT" : "அச்சிடுக",
+    "YES":"ஆம்",
+    "NO":"இல்லை"
+  },
+  "ALERT":{
+    "SESSION_EXPIRE":"உங்களுக்கு இன்னும் நேரம் தேவையா",
+    "SESSION_EXPIRE_DETAIL":"உங்கள் அமர்வு காலாவதியாகிவிட்டது"
+  },
+  "VALIDATION":{
+     "NIC_REQUIRED" : "NIC எண் தேவை!",
+     "API_SERVICE_DOWN" : "அச்சச்சோ! பின்தளத்துடன் இணைக்க முடியவில்லை, ஐடி ஆதரவைத் தொடர்பு கொள்ளவும்",
+     "NAME_REQUIRED" : "பெயர் தேவை!",
+     "VISITOR_TYPE_REQUIRED":"பெயர் தேவை!",
+     "SELECT_ANSWER" : "சரியான பதிலைத் தேர்ந்தெடுக்கவும்",
+      "INVALID_NIC" : "தவறான NIC எண்"
+  } 
+}

@@ -1,0 +1,27 @@
+{
+    "localization_testing": "XXXXX",
+    "VALIDATEUSER" : {
+      "ENTER_NIC" : "ජාතික හැදුනම්පත් අංකය ඇතුලත් කරන්න ",
+      "ENTER_NIC_NOTE" : "විස්තර ඇතුලත් කිරීමට කරුණාකර යතුරුපුවරු විස්තර භාවිතා කරන්න"
+    },
+    "VISITDETAIL" : {
+      "ENTER_YOUR_NAME" : "ඔබගේ නම ඇතුලත් කරන්න",
+      "CONTRACTOR" : {
+        "CONTRACTOR_TYPE" : "කොන්ත්රාත්කරු වර්ගය",
+        "CONTRACTOR_TYPE_NOTE" : "ඔබට වැඩිදුර තොරතුරු අවශ්‍ය නම්, කරුණාකර පරීක්ෂා කරන්න",
+        "VISITOR" : "ආගන්තුකයා",
+        "VISITOR_NOTE" : "ඔබට වැඩිදුර තොරතුරු අවශ්‍ය නම්",
+        "WORKER" : "කම්කරුවා",
+        "WORKER_NOTE" : "ඔබට වැඩිදුර තොරතුරු අවශ්‍ය නම්",
+        "CHOOSE_CONTRACTOR" : "කොන්ත්රාත්කරු තෝරන්න",
+        "CHOOSE_CONTRACTOR_NOTE" : "ඔබට වැඩිදුර තොරතුරු අවශ්‍ය නම්"
+      }
+    },
+    "COMMON" : {
+      "NEXT" : "ඉදිරියට",
+      "BACK" : "ආපසු",
+      "EXIT" : "පිටවීම",
+      "TAKE_EXAM" : "Take Exam"
+    } 
+  }
+  
